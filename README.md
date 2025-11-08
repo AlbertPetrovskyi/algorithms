@@ -1,1 +1,1 @@
-# algorithms
+# Enjoy or not algorithms :)
